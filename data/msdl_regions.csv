@@ -1,0 +1,40 @@
+region,network,x,y,z
+L Aud,Aud,-53.28,-8.88,32.36
+R Aud,Aud,53.47,-6.49,27.52
+Striate,Striate,1.18,-74.54,10.79
+L DMN,DMN,-45.8,-64.78,31.84
+Med DMN,DMN,-0.2,-55.21,29.87
+Front DMN,DMN,-0.15,51.42,7.58
+R DMN,DMN,51.66,-59.34,28.88
+Occ post,Occ post,0.41,-91.05,1.58
+Motor,Motor,-1.48,-27.93,61.5
+R DLPFC,R V Att,40.1,20.96,44.72
+R Front pol,R V Att,37.83,55.49,1.22
+R Par,R V Att,47.53,-52.42,43.06
+R Post Temp,R V Att,62.53,-32.99,-9.14
+Basal,Basal,-0.91,-2.75,6.15
+L Par,L V Att,-41.66,-59.04,44.61
+L DLPFC,L V Att,-39.04,19.28,43.27
+L Front pol,L V Att,-40.08,50.65,0.81
+L IPS,D Att,-29.39,-59.43,44.2
+R IPS,D Att,31.6,-58.09,45.69
+L LOC,Vis Sec,-30.54,-85.14,9.1
+Vis,Vis Sec,-24.29,-74.28,-11.74
+R LOC,Vis Sec,33.4,-77.96,4.31
+D ACC,Salience,-28.17,46.32,21.56
+V ACC,Salience,-0.45,34.06,20.73
+R A Ins,Salience,28.38,47.72,22.13
+L STS,Temporal,-52.12,-17.92,13.28
+R STS,Temporal,52.61,-13.65,12.11
+L TPJ,Language,-55.52,-43.77,10.08
+Broca,Language,-48.66,25.11,5.7
+Sup Front S,Language,-3.39,17.19,63.52
+R TPJ,Language,54.42,-29.5,-2.72
+R Pars Op,Language,52.38,29.39,2.93
+Cereb,Cereb,1.05,-58.49,-23.91
+Dors PCC,Dors PCC,-1.44,-59.12,55.25
+L Ins,Cing-Ins,-41.33,13.63,2.7
+Cing,Cing-Ins,1.05,9.2,46.43
+R Ins,Cing-Ins,43.01,14.3,2.79
+L Ant IPS,Ant IPS,-47.85,-32.07,41.9
+R Ant IPS,Ant IPS,48.36,-29.04,43.13
