@@ -6,20 +6,20 @@ The notebooks are written to be read out loud. There is no separate script.
 
 ## The sessions
 
-| # | Session | Open in Colab |
-|---|---------|---------------|
-| 1 | Why Python for Neuroscience? | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/01_why_python_for_neuroscience.ipynb) |
-| 2 | Variables, Types and Arithmetic | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/02_variables_types_arithmetic.ipynb) |
-| 3 | Control Flow and Functions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/03_control_flow_and_functions.ipynb) |
-| 4 | Lists, Dictionaries and Tuples | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/04_lists_dicts_tuples.ipynb) |
-| 5 | NumPy Fundamentals | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/05_numpy_fundamentals.ipynb) |
-| 6 | pandas and Tabular Data | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/06_pandas_fundamentals.ipynb) |
-| 7 | Plotting with Matplotlib and Seaborn | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/07_plotting.ipynb) |
-| 8 | Signal Processing: Sampling and Filtering | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/08_signal_processing.ipynb) |
-| 9 | Statistics for Neuroscience | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/09_statistics.ipynb) |
-| 10 | Brain Networks and Graph Theory | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/10_brain_networks.ipynb) |
-| 11 | Capstone Part 1: Real Data In | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/11_capstone_real_data.ipynb) |
-| 12 | Capstone Part 2: Analyse and Conclude | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/12_capstone_analyse_conclude.ipynb) |
+| # | Session | Open in Colab | Video |
+|---|---------|---------------|-------|
+| 1 | Why Python for Neuroscience? | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/01_why_python_for_neuroscience.ipynb) | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=CmWhcrfktSE) |
+| 2 | Variables, Types and Arithmetic | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/02_variables_types_arithmetic.ipynb) | — |
+| 3 | Control Flow and Functions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/03_control_flow_and_functions.ipynb) | — |
+| 4 | Lists, Dictionaries and Tuples | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/04_lists_dicts_tuples.ipynb) | — |
+| 5 | NumPy Fundamentals | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/05_numpy_fundamentals.ipynb) | — |
+| 6 | pandas and Tabular Data | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/06_pandas_fundamentals.ipynb) | — |
+| 7 | Plotting with Matplotlib and Seaborn | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/07_plotting.ipynb) | — |
+| 8 | Signal Processing: Sampling and Filtering | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/08_signal_processing.ipynb) | — |
+| 9 | Statistics for Neuroscience | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/09_statistics.ipynb) | — |
+| 10 | Brain Networks and Graph Theory | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/10_brain_networks.ipynb) | — |
+| 11 | Capstone Part 1: Real Data In | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/11_capstone_real_data.ipynb) | — |
+| 12 | Capstone Part 2: Analyse and Conclude | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeedrafsharx/python-for-neuroscience/blob/main/notebooks/12_capstone_analyse_conclude.ipynb) | — |
 
 ## How it fits together
 
@@ -45,7 +45,7 @@ jupyter lab notebooks/
 ## What is in `data/`
 
 | File | What it is |
-|---|---|
+|------|------------|
 | `one_subject_timeseries.csv` | 39 region time series from one participant. Used for the demo in session 1 and as a fallback in session 11. |
 | `dev_fmri_timeseries.npz` | 50 participants (25 children, 25 adults), 168 timepoints, 39 regions. The session 12 dataset. |
 | `participants.csv` | Participant id, age, group. |
