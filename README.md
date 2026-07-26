@@ -2,8 +2,6 @@
 
 A free, short course that takes you from your first variable to a real analysis of open fMRI data. Each notebook is one session of roughly ten minutes. Everything runs in your browser on Google Colab with no installation.
 
-The notebooks are written to be read out loud. There is no separate script.
-
 ## The sessions
 
 | # | Session | Open in Colab | Video |
